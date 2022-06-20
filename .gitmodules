@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BMRBr"]
+	path = BMRBr
+	url = https://github.com/billchenxi/bmrbr
+	shallow = true
+	registered = true
